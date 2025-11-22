@@ -1,8 +1,16 @@
-[submodule "Equipo 09/Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-backend"]
+[submodule "Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-backend"]
+	path = Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-backend
+	url = https://dev.azure.com/capstone-barriolink/BarrioLink/_git/barriolink-backend.git
+	branch = main
+[submodule "Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-frontend"]
+	path = Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-frontend
+	url = https://dev.azure.com/capstone-barriolink/BarrioLink/_git/barriolink-frontend.git
+	branch = main
+[submodule "barriolink-backend"]
 	path = Equipo 09/Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-backend
 	url = https://dev.azure.com/capstone-barriolink/BarrioLink/_git/barriolink-backend.git
 	branch = main
-[submodule "Equipo 09/Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-frontend"]
+[submodule "barriolink-frontend"]
 	path = Equipo 09/Fase 2/Evidencias Proyecto/Evidencias de sistema Aplicación/barriolink-frontend
 	url = https://dev.azure.com/capstone-barriolink/BarrioLink/_git/barriolink-frontend.git
 	branch = main
